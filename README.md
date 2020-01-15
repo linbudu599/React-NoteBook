@@ -14,3 +14,6 @@
 
   - [ ] [全局配置](./hooks/useAxios/with-global-config)  
          **Inspired by [react-axios-hook](https://github.com/nullptru/react-axios-hook)**
+
+- [usePointor](./hooks/usePointor)
+  > 雏形，用于监听鼠标位置，准备往类似埋点功能进阶
