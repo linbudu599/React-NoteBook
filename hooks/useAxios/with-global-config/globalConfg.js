@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from "react";
 import axios from "axios";
 
 export const AxiosContext = React.createContext({});
-const GlobalConfigComp = props => {
+const GlobalConfig = props => {
   const { config } = props;
   const axiosInstanceRef = useRef();
 
@@ -24,4 +24,4 @@ const GlobalConfigComp = props => {
     </AxiosContext.Provider>
   );
 };
-export default GlobalConfigComp;
+export default GlobalConfig;

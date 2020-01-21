@@ -1,4 +1,6 @@
-# Effective-Customize-Hoo
+# Learning React
+
+## Effective-Customize-Hooks
 
 整理一些也许能提升开发效率的自定义 Hooks🚀
 
@@ -17,3 +19,9 @@
 
 - [usePointor](./hooks/usePointor)
   > 雏形，用于监听鼠标位置，准备往类似埋点功能进阶
+
+
+
+## With Typescript
+
+- [2020-1-21](ts/2020-1-21-tsx.tsx)，泛型函数组件，扩展FC等
