@@ -1,0 +1,25 @@
+{
+  "name": "Using-React",
+  "version": "1.0.0",
+  "description": "整理一些也许能提升开发效率的自定义 Hooks🚀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linbudu599/Effective-Customize-Hooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linbudu599/Effective-Customize-Hooks/issues"
+  },
+  "homepage": "https://github.com/linbudu599/Effective-Customize-Hooks#readme",
+  "dependencies": {
+    "@types/react": "^16.9.19",
+    "react": "^16.12.0",
+    "typescript": "^3.7.5"
+  }
+}
