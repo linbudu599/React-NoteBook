@@ -12,16 +12,19 @@
 
 - [useAxios](./hooks/useAxios)
 
-  > 用于封装 axios 发起请求中的 loading、data、err 状态
+  > 用于封装 axios 发起请求中的 loading、data、err 状态  
 
-  - [ ] [全局配置](./hooks/useAxios/with-global-config)  
+  - [x] [全局配置](./hooks/useAxios/with-global-config)  
          **Inspired by [react-axios-hook](https://github.com/nullptru/react-axios-hook)**
 
 - [usePointor](./hooks/usePointor)
-  > 雏形，用于监听鼠标位置，准备往类似埋点功能进阶
-
-
+  
+  > 简易demo
 
 ## With Typescript
 
-- [2020-1-21](ts/2020-1-21-tsx.tsx)，泛型函数组件，扩展FC等
+见 [ts](./ts/) 文件夹
+
+## 社区生态
+
+- [再次认识React-Redux，还有新朋友useSelector](./tool/react-redux/README.md)
