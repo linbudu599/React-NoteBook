@@ -19,7 +19,7 @@
   "homepage": "https://github.com/linbudu599/Effective-Customize-Hooks#readme",
   "dependencies": {
     "@types/react": "^16.9.19",
-    "react": "^16.12.0",
+    "react": "^18.2.0",
     "typescript": "^3.7.5"
   }
 }
